@@ -1,0 +1,2 @@
+source /home/mariem/test_encoder/build/bootloader/gdbinit/symbols
+source /home/mariem/test_encoder/build/bootloader/gdbinit/connect

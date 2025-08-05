@@ -1,0 +1,247 @@
+[0;33m--- esp-idf-monitor 1.6.2 on /dev/ttyUSB0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- Stack dump detected[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0;33m--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+--- 0x4200bcac: app_main at /home/mariem/test_encoder/main/test_encoder.c:49
+[0m
+[0;33m--- 0x40030dca: memset in ROM
+[0m
+[0;33m--- 0x40030dd6: memset in ROM
+[0m
+[0;33m--- 0x40800001: _vector_table at /home/mariem/esp-idf/components/riscv/vectors_intc.S:54
+[0m
+[0m

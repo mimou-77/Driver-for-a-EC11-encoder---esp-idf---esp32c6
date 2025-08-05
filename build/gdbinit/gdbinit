@@ -1,0 +1,2 @@
+source /home/mariem/test_encoder/build/gdbinit/symbols
+source /home/mariem/test_encoder/build/gdbinit/connect
