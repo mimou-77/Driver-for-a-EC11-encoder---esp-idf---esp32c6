@@ -9,7 +9,7 @@
 - 1 logging task that logs the values of sense_of_rotation and position, if a CW rotation happens: position++, if a CCW rotation happens: position--
 
 
-- According to datasheet: 
+`- According to datasheet:` 
 
   - For the sense_of_rotation to be considered CW:
     - an interrupt (FALLING EDGE) happens on pin clk THEN an interrupt (FALLING EDGE) happens on pin dta
@@ -18,7 +18,7 @@
     - an interrupt (FALLING EDGE) happens on pin dta THEN an interrupt (FALLING EDGE) happens on pin clk 
   
 
-The configuration is stored in the variable "state"
+`The configuration is stored in the variable "state":`
 
 - state = 1111 (initial value)
 - 1st interrupt happens on pin clk : state = 0b0111 : the 1st 2 bits 01 represent the values of pin clk and pin dta (01 : pin clk = 0 and pin dta = 1) ; the 2nd 2 bits represent if the 1st interrupt is happening or the second interrupt is happening
